@@ -8,3 +8,6 @@ Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.
 
 !ENTRY org.eclipse.core.net 1 0 2019-05-14 20:28:00.238
 !MESSAGE System property http.nonProxyHosts has been set to captive.apple.com|*.captive.apple.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-05-14 20:29:38.711
+!MESSAGE 
